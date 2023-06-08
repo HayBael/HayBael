@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rakha Khairy Darka</h1>
 <h3 align="center">I’m A Developer From Indonesia 🇮🇩</h3>
-
+<img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/908363157553172533/1116187810366488706/IMG_2209.gif")
 - 🔭 I’m currently working on **CxeCloud**
 
 - 🌱 I’m currently learning **Java And Node.js**
