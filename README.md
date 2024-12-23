@@ -10,9 +10,9 @@
 
 - 👨‍💻 All of my projects are available at [GitHub.com/HayBael](GitHub.com/HayBael)
 
-- 📫 How to reach me **rakhakhairydarka801@gmail.com**
+- 📫 How to reach me **empeels10@gmail.com**
 
-- ⚡ Fun fact **I like play Mobile Legend**
+- ⚡ Fun fact **I like fishing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
