@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://snowy.is-a.dev](https://snowy.is-a.dev)
 
-- ⚡ Fun fact **Asli Orang Sunda 🇮🇩**
+- ⚡ Fun fact **Saya Asli Sunda 🇮🇩**
 
 
 <h3 align="left">Languages and Tools:</h3>
